@@ -3,7 +3,8 @@
 # given example 42: 4 will be in block #1 2 will be in block #2
 # block 0 will store the result
 # block 1 will hold the value to multiply
-# block 2 will hold the amount of times to multiply
+#
+block 2 will hold the amount of times to multiply
 # the result of an input of 42 will output the result of 4*2
 # read into block 1 and 2
 # subtract 48 from each: '0'
